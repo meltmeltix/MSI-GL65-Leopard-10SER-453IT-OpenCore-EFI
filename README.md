@@ -7,6 +7,7 @@
 | OPENCORE VERSION | v0.8.3 [DEV]  |
 | MACOS VERSION    | Monterey 12.4 |
 
+<br>
 
 ### Specs
 ---
