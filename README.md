@@ -19,6 +19,6 @@
 
 ### Screenshots
 ---
-!()[https://github.com/alessiocameroni/Hackintosh-OpenCore-EFI-for-MSI-GL65-Leopard-10SER-453IT/blob/main/1.png]
+![](https://github.com/alessiocameroni/Hackintosh-OpenCore-EFI-for-MSI-GL65-Leopard-10SER-453IT/blob/main/1.png)
 
-!()[https://github.com/alessiocameroni/Hackintosh-OpenCore-EFI-for-MSI-GL65-Leopard-10SER-453IT/blob/main/2.png]
+![](https://github.com/alessiocameroni/Hackintosh-OpenCore-EFI-for-MSI-GL65-Leopard-10SER-453IT/blob/main/2.png)
