@@ -1664,7 +1664,6 @@
 		<false/>
 		<key>Generic</key>
 		<dict>
-			# Set up your own values by following Dortania's 'Fixing iServices guide': https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
