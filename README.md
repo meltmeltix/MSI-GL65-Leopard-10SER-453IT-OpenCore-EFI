@@ -17,6 +17,22 @@
 
 <br>
 
+### What's working
+---
+- Bluetooth Working
+- Wifi Working
+- USB-A Working
+- USB-C Working
+- SD Card Reader Working
+- Audio Working (NOTICE BELOW)
+- iServices Working (NOTICE BELOW)
+
+AUDIO NOTICE: This sadly doesn't seems to be fixable - if you reboot from Windows and boot to MacOS, the audio won't most likely work. To fix this, either **SHUT DOWN** from Windows and then boot to MacOS, OR **SHUT DOWN** from MacOS, wait a couple of seconds and then boot into MacOS again.
+
+ISERVICES NOTICE: iServices work without any issues in MacOS. However, you MUST need to set up them manually, as per each model has different naming conventions, addresses and more. Follow [Dortania's iServices fixing guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) for more info.
+
+<br>
+
 ### Screenshots
 ---
 ![](https://github.com/alessiocameroni/Hackintosh-OpenCore-EFI-for-MSI-GL65-Leopard-10SER-453IT/blob/main/1.png)
