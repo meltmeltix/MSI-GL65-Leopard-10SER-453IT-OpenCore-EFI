@@ -3,7 +3,6 @@
 ### Specs
 ---
 | CPU/PROCESSOR         | Intel Comet Lake i7-10750H                                                                                     |
-|-----------------------|----------------------------------------------------------------------------------------------------------------|
 | GRAPHICS (Integrated) | Intel UHD Graphics 630                                                                                         |
 | SCREEN SIZE / TYPE    | 15.6" FHD (1920x1080), 144Hz, IPS-Level                                                                        |
 | RAM                   | 16GB (2 sticks of 8GB each)                                                                                    |
